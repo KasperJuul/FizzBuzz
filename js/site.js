@@ -72,7 +72,7 @@ function displayNumbers(sequence){
     document.getElementById("results").innerHTML = templateRows;
 }
 
-// Alt display method
+// Alt display method 
 function  displayData(sequence) {
     //get the table body element from the page
     let tableBody = document.getElementById("results");
